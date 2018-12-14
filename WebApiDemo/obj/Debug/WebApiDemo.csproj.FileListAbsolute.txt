@@ -1,0 +1,160 @@
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\ApplicationInsights.config
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\csc.exe
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\csc.exe.config
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\csc.rsp
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\csi.exe
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\csi.rsp
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\System.AppContext.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\System.IO.FileSystem.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\vbc.exe
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\vbc.exe.config
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\vbc.rsp
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\VBCSCompiler.exe
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\WebApiDemo.dll.config
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\WebApiDemo.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\WebApiDemo.pdb
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Antlr3.Runtime.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.AI.Web.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.ApplicationInsights.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Newtonsoft.Json.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Net.Http.Formatting.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.Helpers.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.Http.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.Http.WebHost.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.Mvc.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.Optimization.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.Razor.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.Deployment.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.Razor.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\WebGrease.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Newtonsoft.Json.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Net.Http.Formatting.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.Helpers.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.Http.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.Http.WebHost.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.Mvc.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.Optimization.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.Razor.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.Deployment.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.Razor.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Antlr3.Runtime.pdb
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.ApplicationInsights.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Microsoft.AI.Web.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.csprojResolveAssemblyReference.cache
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.pdb
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\WebApiDemo.xml
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\Swashbuckle.Core.dll
+c:\users\mis\documents\visual studio 2017\Projects\WebApiDemo\WebApiDemo\bin\WebActivatorEx.dll
+C:\Users\mis\Documents\Visual Studio 2017\Projects\WebApiDemo\WebApiDemo\bin\EntityFramework.dll
+C:\Users\mis\Documents\Visual Studio 2017\Projects\WebApiDemo\WebApiDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\mis\Documents\Visual Studio 2017\Projects\WebApiDemo\WebApiDemo\bin\EntityFramework.xml
+C:\Users\mis\Documents\Visual Studio 2017\Projects\WebApiDemo\WebApiDemo\bin\EntityFramework.SqlServer.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\ApplicationInsights.config
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\csc.exe
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\csc.exe.config
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\csc.rsp
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\csi.exe
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\csi.rsp
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\System.AppContext.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\vbc.exe
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\vbc.exe.config
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\vbc.rsp
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\VBCSCompiler.exe
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\WebApiDemo.dll.config
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\WebApiDemo.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\WebApiDemo.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\WebApiDemo.pdb
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Antlr3.Runtime.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\EntityFramework.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\EntityFramework.SqlServer.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.AI.Web.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.ApplicationInsights.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Newtonsoft.Json.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Swashbuckle.Core.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Net.Http.Formatting.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.Helpers.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.Http.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.Http.WebHost.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.Mvc.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.Optimization.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.Razor.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.Razor.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\WebActivatorEx.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\WebGrease.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\EntityFramework.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\EntityFramework.SqlServer.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Newtonsoft.Json.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Net.Http.Formatting.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.Helpers.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.Http.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.Http.WebHost.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.Mvc.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.Optimization.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.Razor.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.Razor.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Antlr3.Runtime.pdb
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.ApplicationInsights.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\bin\Microsoft.AI.Web.xml
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.csprojResolveAssemblyReference.cache
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.dll
+D:\Demo\Swagger\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.pdb
